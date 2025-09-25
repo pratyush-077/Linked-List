@@ -1,3 +1,8 @@
+# Pratyush Saha
+# Prn:24070123078
+# Experiment-17
+
+
 # 📘 Linked List in C++
 
 This repository contains simple C++ implementations of Linked List basics to help beginners understand how nodes are created, inserted, and displayed.
